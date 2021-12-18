@@ -25,7 +25,7 @@ def pickle_load(file_name):
 
 def load_data(path_pickles):
     aux_split = path_pickles.split('/')
-    path_arq = './'+ aux_split[1] +'/models/'+ aux_split[3] +'/'
+    path_arq = './Tests/'+ aux_split[2] +'/models/'+ aux_split[4] +'/'
     filename = path_arq + 'ModelSVC_'+ aux_split[-2] +'_SVM.sav'
     
     print(path_pickles)
