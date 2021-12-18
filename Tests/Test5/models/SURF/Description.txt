@@ -1,0 +1,52 @@
+
+SVC
+Pickle: SURFDescriptor_Size:64_HessianThreshold:200.0_NOctaveLayers:21_NOctaves:22_median
+Tempo Total: 4.886099338531494
+Matriz de Confusão:
+[[43  1  0  0  0  0]
+ [ 1 37  0  4  0  2]
+ [ 0  0 43  1  0  0]
+ [ 3  2  1 37  0  1]
+ [ 0  1  2  0 40  1]
+ [ 0  3  3  1  1 36]]
+Acurácia: 0.8939393939393939
+Kappa: 0.8727272727272727
+
+SVC
+Pickle: SURFDescriptor_Size:64_HessianThreshold:200.0_NOctaveLayers:21_NOctaves:22_mean
+Tempo Total: 3.8954408168792725
+Matriz de Confusão:
+[[38  5  0  0  0  1]
+ [ 1 41  0  2  0  0]
+ [ 0  1 40  2  0  1]
+ [ 1  2  0 40  0  1]
+ [ 0  0  0  1 42  1]
+ [ 0  1  0  3  1 39]]
+Acurácia: 0.9090909090909091
+Kappa: 0.8909090909090909
+
+Random Forest
+Pickle: SURFDescriptor_Size:64_HessianThreshold:200.0_NOctaveLayers:21_NOctaves:22_median
+Tempo Total: 16.33998465538025
+Matriz de Confusão:
+[[44  0  0  0  0  0]
+ [ 1 42  0  1  0  0]
+ [ 0  0 44  0  0  0]
+ [ 0  0  0 44  0  0]
+ [ 0  0  0  0 43  1]
+ [ 0  0  0  2  0 42]]
+Acurácia: 0.9810606060606061
+Kappa: 0.9772727272727273
+
+Random Forest
+Pickle: SURFDescriptor_Size:64_HessianThreshold:200.0_NOctaveLayers:21_NOctaves:22_mean
+Tempo Total: 15.951488494873047
+Matriz de Confusão:
+[[44  0  0  0  0  0]
+ [ 0 41  0  3  0  0]
+ [ 0  1 42  1  0  0]
+ [ 1  0  1 41  0  1]
+ [ 0  0  1  0 43  0]
+ [ 0  0  1  0  0 43]]
+Acurácia: 0.9621212121212122
+Kappa: 0.9545454545454546

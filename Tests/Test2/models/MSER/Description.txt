@@ -1,0 +1,104 @@
+
+SVC
+Pickle: ORB_MSERNome Padrão:Feature2D.MSER_Delta:2_MaxArea:14400_MinArea:60_Pass2Only:False_Descriptor Size:0-_Descriptor_Size:32_EdgeThreshold:20_FastThreshold:20_FirstLevel:0_MaxFeatures:500_NLevels:8_PatchSize:20_mean
+Tempo Total: 16.542028188705444
+Matriz de Confusão:
+[[37  0  3  3  1  0]
+ [ 5 38  0  0  0  1]
+ [ 4  1 37  0  1  1]
+ [ 0  0  2 41  1  0]
+ [ 7  2  1  0 34  0]
+ [ 0  2  3  0  1 38]]
+Acurácia: 0.8522727272727273
+Kappa: 0.8227272727272728
+
+SVC
+Pickle: Surf_MSERNome Padrão:Feature2D.MSER_Delta:2_MaxArea:14400_MinArea:60_Pass2Only:False_Descriptor Size:0-_Descriptor_Size:64_HessianThreshold:200.0_NOctaveLayers:21_NOctaves:22_mean
+Tempo Total: 1.4509847164154053
+Matriz de Confusão:
+[[42  0  1  0  0  1]
+ [ 2 42  0  0  0  0]
+ [ 1  0 41  1  1  0]
+ [ 0  0  0 44  0  0]
+ [ 0  0  0  0 44  0]
+ [ 0  0  0  0  0 44]]
+Acurácia: 0.9734848484848485
+Kappa: 0.9681818181818181
+
+SVC
+Pickle: ORB_MSERNome Padrão:Feature2D.MSER_Delta:2_MaxArea:14400_MinArea:60_Pass2Only:False_Descriptor Size:0-_Descriptor_Size:32_EdgeThreshold:20_FastThreshold:20_FirstLevel:0_MaxFeatures:500_NLevels:8_PatchSize:20_median
+Tempo Total: 17.310969591140747
+Matriz de Confusão:
+[[28  7  1  6  1  1]
+ [12 19  2  4  3  4]
+ [ 3  2 31  2  4  2]
+ [ 1  4  2 28  4  5]
+ [ 4  3  2  5 29  1]
+ [ 2  5  7  3  1 26]]
+Acurácia: 0.6098484848484849
+Kappa: 0.5318181818181817
+
+SVC
+Pickle: Surf_MSERNome Padrão:Feature2D.MSER_Delta:2_MaxArea:14400_MinArea:60_Pass2Only:False_Descriptor Size:0-_Descriptor_Size:64_HessianThreshold:200.0_NOctaveLayers:21_NOctaves:22_median
+Tempo Total: 2.0952441692352295
+Matriz de Confusão:
+[[41  1  0  2  0  0]
+ [ 5 37  0  0  2  0]
+ [ 2  0 41  0  0  1]
+ [ 0  0  0 44  0  0]
+ [ 1  0  0  0 42  1]
+ [ 0  0  0  0  0 44]]
+Acurácia: 0.9431818181818182
+Kappa: 0.9318181818181818
+
+Random Forest
+Pickle: ORB_MSERNome Padrão:Feature2D.MSER_Delta:2_MaxArea:14400_MinArea:60_Pass2Only:False_Descriptor Size:0-_Descriptor_Size:32_EdgeThreshold:20_FastThreshold:20_FirstLevel:0_MaxFeatures:500_NLevels:8_PatchSize:20_mean
+Tempo Total: 12.124406814575195
+Matriz de Confusão:
+[[41  1  1  1  0  0]
+ [ 0 43  1  0  0  0]
+ [ 3  0 41  0  0  0]
+ [ 0  0  0 44  0  0]
+ [ 1  1  1  1 40  0]
+ [ 1  0  1  0  0 42]]
+Acurácia: 0.9507575757575758
+Kappa: 0.9409090909090909
+
+Random Forest
+Pickle: Surf_MSERNome Padrão:Feature2D.MSER_Delta:2_MaxArea:14400_MinArea:60_Pass2Only:False_Descriptor Size:0-_Descriptor_Size:64_HessianThreshold:200.0_NOctaveLayers:21_NOctaves:22_mean
+Tempo Total: 15.287594079971313
+Matriz de Confusão:
+[[42  0  0  2  0  0]
+ [ 1 43  0  0  0  0]
+ [ 0  0 42  1  1  0]
+ [ 1  0  0 43  0  0]
+ [ 0  0  0  0 44  0]
+ [ 0  0  0  0  0 44]]
+Acurácia: 0.9772727272727273
+Kappa: 0.9727272727272728
+
+Random Forest
+Pickle: ORB_MSERNome Padrão:Feature2D.MSER_Delta:2_MaxArea:14400_MinArea:60_Pass2Only:False_Descriptor Size:0-_Descriptor_Size:32_EdgeThreshold:20_FastThreshold:20_FirstLevel:0_MaxFeatures:500_NLevels:8_PatchSize:20_median
+Tempo Total: 8.828924417495728
+Matriz de Confusão:
+[[39  3  0  1  1  0]
+ [ 5 35  1  1  2  0]
+ [ 3  0 40  0  1  0]
+ [ 2  2  0 40  0  0]
+ [ 2  3  3  1 34  1]
+ [ 2  0  1  3  1 37]]
+Acurácia: 0.8522727272727273
+Kappa: 0.8227272727272728
+
+Random Forest
+Pickle: Surf_MSERNome Padrão:Feature2D.MSER_Delta:2_MaxArea:14400_MinArea:60_Pass2Only:False_Descriptor Size:0-_Descriptor_Size:64_HessianThreshold:200.0_NOctaveLayers:21_NOctaves:22_median
+Tempo Total: 15.227628469467163
+Matriz de Confusão:
+[[42  1  0  1  0  0]
+ [ 1 43  0  0  0  0]
+ [ 1  0 41  2  0  0]
+ [ 0  0  0 44  0  0]
+ [ 0  0  0  0 44  0]
+ [ 0  0  1  0  0 43]]
+Acurácia: 0.9734848484848485
+Kappa: 0.9681818181818181

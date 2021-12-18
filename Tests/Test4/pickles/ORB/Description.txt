@@ -1,0 +1,28 @@
+
+ORB
+Descriptor_Size:32
+EdgeThreshold:20
+FastThreshold:20
+FirstLevel:0
+MaxFeatures:500
+NLevels:8
+PatchSize:20
+ScaleFactor:1.2000000476837158
+ScoreType:0
+WTA_K:2
+mean
+Tempo Total: 195.68656706809998
+
+ORB
+Descriptor_Size:32
+EdgeThreshold:20
+FastThreshold:20
+FirstLevel:0
+MaxFeatures:500
+NLevels:8
+PatchSize:20
+ScaleFactor:1.2000000476837158
+ScoreType:0
+WTA_K:2
+median
+Tempo Total: 268.4643497467041

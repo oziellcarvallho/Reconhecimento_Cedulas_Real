@@ -1,0 +1,16 @@
+
+SURF
+Descriptor_Size:64
+HessianThreshold:200.0
+NOctaveLayers:21
+NOctaves:22
+mean
+Tempo Total: 6521.350473880768
+
+SURF
+Descriptor_Size:64
+HessianThreshold:200.0
+NOctaveLayers:21
+NOctaves:22
+median
+Tempo Total: 6900.795288324356

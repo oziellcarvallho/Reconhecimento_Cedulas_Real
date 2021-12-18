@@ -1,0 +1,52 @@
+
+Random Forest
+Pickle: ORBDescriptor_Size:32_EdgeThreshold:20_FastThreshold:20_FirstLevel:0_MaxFeatures:500_NLevels:8_PatchSize:20_ScaleFactor:1.2000000476837158_ScoreType:0_WTA_K:2_median
+Tempo Total: 7.349202871322632
+Matriz de Confusão:
+[[38  2  0  2  0  2]
+ [ 3 35  2  4  0  0]
+ [ 0  2 39  1  1  1]
+ [ 2  1  1 35  3  2]
+ [ 0  0  3  3 37  1]
+ [ 0  2  1  1  2 38]]
+Acurácia: 0.8409090909090909
+Kappa: 0.8090909090909091
+
+Random Forest
+Pickle: ORBDescriptor_Size:32_EdgeThreshold:20_FastThreshold:20_FirstLevel:0_MaxFeatures:500_NLevels:8_PatchSize:20_ScaleFactor:1.2000000476837158_ScoreType:0_WTA_K:2_mean
+Tempo Total: 17.45201539993286
+Matriz de Confusão:
+[[37  6  0  0  0  1]
+ [ 2 40  1  0  0  1]
+ [ 1  1 40  1  0  1]
+ [ 0  0  1 38  3  2]
+ [ 1  0  2  2 39  0]
+ [ 0  1  2  0  2 39]]
+Acurácia: 0.8825757575757576
+Kappa: 0.8590909090909091
+
+SVC
+Pickle: ORBDescriptor_Size:32_EdgeThreshold:20_FastThreshold:20_FirstLevel:0_MaxFeatures:500_NLevels:8_PatchSize:20_ScaleFactor:1.2000000476837158_ScoreType:0_WTA_K:2_median
+Tempo Total: 31.611849784851074
+Matriz de Confusão:
+[[33  2  0  4  1  4]
+ [ 8 29  3  3  0  1]
+ [ 3  3 32  3  0  3]
+ [ 2  3  5 28  2  4]
+ [ 2  3  4  1 31  3]
+ [ 4  1  1  4  3 31]]
+Acurácia: 0.696969696969697
+Kappa: 0.6363636363636362
+
+SVC
+Pickle: ORBDescriptor_Size:32_EdgeThreshold:20_FastThreshold:20_FirstLevel:0_MaxFeatures:500_NLevels:8_PatchSize:20_ScaleFactor:1.2000000476837158_ScoreType:0_WTA_K:2_mean
+Tempo Total: 142.15851402282715
+Matriz de Confusão:
+[[38  5  0  0  1  0]
+ [ 4 36  1  1  1  1]
+ [ 1  0 38  3  1  1]
+ [ 1  3  3 36  1  0]
+ [ 0  1  0  4 39  0]
+ [ 0  0  3  1  3 37]]
+Acurácia: 0.8484848484848485
+Kappa: 0.8181818181818181

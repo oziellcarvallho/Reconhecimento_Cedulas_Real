@@ -1,0 +1,62 @@
+
+ORB_MSER
+Nome Padrão:Feature2D.MSER
+Delta:2
+MaxArea:14400
+MinArea:60
+Pass2Only:False
+Descriptor Size:0-
+Descriptor_Size:32
+EdgeThreshold:20
+FastThreshold:20
+FirstLevel:0
+MaxFeatures:500
+NLevels:8
+PatchSize:20
+mean
+Tempo Total: 442.13452410697937
+
+ORB_MSER
+Nome Padrão:Feature2D.MSER
+Delta:2
+MaxArea:14400
+MinArea:60
+Pass2Only:False
+Descriptor Size:0-
+Descriptor_Size:32
+EdgeThreshold:20
+FastThreshold:20
+FirstLevel:0
+MaxFeatures:500
+NLevels:8
+PatchSize:20
+median
+Tempo Total: 457.78133153915405
+
+Surf_MSER
+Nome Padrão:Feature2D.MSER
+Delta:2
+MaxArea:14400
+MinArea:60
+Pass2Only:False
+Descriptor Size:0-
+Descriptor_Size:64
+HessianThreshold:200.0
+NOctaveLayers:21
+NOctaves:22
+mean
+Tempo Total: 566.00501537323
+
+Surf_MSER
+Nome Padrão:Feature2D.MSER
+Delta:2
+MaxArea:14400
+MinArea:60
+Pass2Only:False
+Descriptor Size:0-
+Descriptor_Size:64
+HessianThreshold:200.0
+NOctaveLayers:21
+NOctaves:22
+median
+Tempo Total: 596.4193704128265
